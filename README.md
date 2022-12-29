@@ -42,6 +42,6 @@ Code
 Template code is provided in the Heart_Failure_Death_Detection.ipynb notebook file . If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
 
 Run
-In a terminal or command window, navigate to the top-level project directory boston_housing/ (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory (that contains this README) and run one of the following commands:
 
 ipython notebook Heart_Failure_Death_Detection.ipynb
